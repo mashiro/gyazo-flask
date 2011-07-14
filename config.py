@@ -13,7 +13,7 @@ server = {
 
 app = {
     'dbm_path': current_dir('db/id'),
-    'image_url': 'http://mashiro.org:15001',
+    'image_url': 'http://path.to.gyazo',
     'image_dir': current_dir('public/images')
 }
 
