@@ -1,7 +1,7 @@
-= Gyazo Flask
-== Install
+# Gyazo Flask
+## Install
 * git://github.com/mashiro/gyazo-flask.git
 * pip install flask
 
-== Run
+## Run
 * python app.py
